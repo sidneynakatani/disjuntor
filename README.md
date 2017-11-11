@@ -2,6 +2,8 @@
 
 Spring boot Example using Circuit Breaker Pattern
 
+![](https://github.com/sidneynakatani/disjuntor/blob/master/resource/img/IMG_20171111_172713.jpg)
+
 This project is only to explain how to implements the pattern Circuit Break.
 
 Circuit Break Pattern consists of don't overload the service layer application when happening a lot of request error.
