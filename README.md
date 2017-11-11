@@ -14,6 +14,24 @@ In Martin Fowler [pages](https://martinfowler.com/bliki/CircuitBreaker.html), yo
 
 ## Getting Started
 
+### Prerequisites
+
+> JDK 8 installed.
+
+### Installing
+
+> git clone https://github.com/sidneynakatani/disjuntor.git
+
+> cd disjuntor
+
+> import in your IDE (Eclipse/IntelliJ)
+
+> Update project
+
+> Update dependencies
+
+> Run application (Java 7 or latest)
+
 ## Authors
 
 - Sidney Nakatani / Initial work
