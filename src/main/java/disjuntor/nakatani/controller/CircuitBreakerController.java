@@ -21,7 +21,7 @@ public class CircuitBreakerController {
 	})
 	public String callMyName(@PathVariable("name") String name) {
 		
-		logger.info("Fail name"+ name);
+		logger.info("Fail name: "+ name);
 		
 		if(name.equalsIgnoreCase("Error")){
 			throw new RuntimeException("Braking flow...");
